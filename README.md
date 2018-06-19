@@ -3,7 +3,7 @@ Nextcloud architecture
          
 CLIENT -- PROXY -- NEXTCLOUD 
 
-Proxy: HAproxy 1.8
-Nextcloud: Snap on Ubuntu 16.04
-File system: XFS
-Backend block storage: CEPH Mimic
+1. Proxy: HAproxy 1.8
+2. Nextcloud: Snap on Ubuntu 16.04
+3. File system: XFS
+4. Backend block storage: CEPH Mimic
